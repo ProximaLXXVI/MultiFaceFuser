@@ -18,6 +18,7 @@ The first file you will install is face_swapper.py
 Move the python script to your FaceFusion folder
 Open with any editor the .py file, change the FaceFusion folder path (base_path variable) 
 and the "FOLDER NAME" of the 3 different folders you created previously.
+Also in the command_line section before the " ' " you can add all the different command of FaceFusion such as --headless etcetc
 
 The second file you will install is MultiFaceFuser.bat
 Before using the .bat and start the swapping you will need to modify it.
@@ -25,4 +26,4 @@ Open with any editor the .bat file and change the Path to the FaceFusion folder
 
 ##########################################################################################################################################
 
-Once you finished these steps you are ready to face-swap. Add images in the "source" & "target" folder you created previously and start the .bat file. You will find the result in the output Folder# MultiFaceFuser
+Once you finished these steps you are ready to face-swap. Add images in the "source" & "target" folder you created previously and start the .bat file. You will find the result in the output Folder
